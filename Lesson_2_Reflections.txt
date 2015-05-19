@@ -13,6 +13,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 If you are making multiple changes to the same file (or document) then you need to add one change at a time to the staging area then commit it then go back and add the next change. If the changes are to multiple files (or documents) and each change is to a different file (or document) then add all of them to the staging area at the same time but only commit one change at a time.   
 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you need two or more versions that are basically the same but with specific differences such as one version in English and another version in a different language. You may also want to test out some changes to see if they are really what is wanted without messing up the current version. Or trying to determine which set of changes is what is really wanted. Could do the multiple set of changes and then check out each one to see which one is the one that will be used. 
+  
   
 
 
