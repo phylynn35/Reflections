@@ -17,6 +17,11 @@ If you are making multiple changes to the same file (or document) then you need 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If you need two or more versions that are basically the same but with specific differences such as one version in English and another version in a different language. You may also want to test out some changes to see if they are really what is wanted without messing up the current version. Or trying to determine which set of changes is what is really wanted. Could do the multiple set of changes and then check out each one to see which one is the one that will be used. 
+
+How do the diagrams help you visualize the branch structure?
+
+It provides an easy way to see how each commit is related to each other and how each branch is related to each other. If the diagram goes back far enough can see at which point the branches split from each other or if there are any commits that can not be reached by one or more of the branches. 
+  
   
   
 
