@@ -1,0 +1,13 @@
+Lesson_2_Reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates an empty repository (or file) with the name specified.  You use enter the following - git init (name of repository) then can do a git status to see if it has been set up okay.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is the place were your items are initially loaded. They are then moved to the working directory. This helps keeps files in order and prevents changes from being used before they are ready. 
+  
+
+ 
