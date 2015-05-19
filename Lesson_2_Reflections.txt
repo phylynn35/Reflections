@@ -21,6 +21,22 @@ If you need two or more versions that are basically the same but with specific d
 How do the diagrams help you visualize the branch structure?
 
 It provides an easy way to see how each commit is related to each other and how each branch is related to each other. If the diagram goes back far enough can see at which point the branches split from each other or if there are any commits that can not be reached by one or more of the branches. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The commits (changes) made in both branches will be put together in the branch that is currently checked out. The changes made in the branch that is not checked out will be added to the branch that is checked out. When done the checked out branch will have all of the changes (commits).
+
+It is represented the way it is in the diagram as an easy way to see what is happening. 
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+With automatic merging changes that are not considered to be conflicts will be put together to form a new version of the file (program, etc). You do not have to manually check each group of changes in both areas to determine what should or should not be moved.  You will only need to do this when GIT determines there is a conflict between the changes. 
+
+There could be cases when GIT thinks there is not a conflict but there is which could cause a problem later and at that point the previous changes will need to be compared to see what is causing the problem. 
+
+      
+
   
   
   
