@@ -9,3 +9,8 @@ When would you want to use a remote repository rather than keeping all your work
 It depends on the type of work. If it is something that multiple people will be working on then it would be better for it to be
 in a remote repository so everyone can have access to it. For work that is sensitive it should not be in a remote repository.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You may not be ready for the changes to be seen by others or all of the changes have not been made yet. Also if it is a new branch what is being done may not be for public use. 
+ 
+
