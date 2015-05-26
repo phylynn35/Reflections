@@ -1,3 +1,11 @@
 Lesson 3 Reflections
 
-A major item not brought up when doing a git push to a remote sit is that you will need to enter your User ID and password for that site - in this case the GITHUB site. The user name will show up as you type but the password will not show and the cursor will not move. 
+A major item not brought up when doing a git push to a remote sit is that you will need to enter your User ID and password for
+that site - in this case the GITHUB site. The user name will show up as you type but the password will not show and the cursor
+will not move. 
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+It depends on the type of work. If it is something that multiple people will be working on then it would be better for it to be
+in a remote repository so everyone can have access to it. For work that is sensitive it should not be in a remote repository.
+
