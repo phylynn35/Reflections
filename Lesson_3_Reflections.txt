@@ -19,4 +19,9 @@ You may not be ready for the changes to be seen by others or all of the changes 
  Forks are the same as clones but it is only done on GITHUB. Branches are only done on the local site. Clones are done on the local site or between local and a remote. 
 
  
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+You have something you can compare against when working on the local file.
+This is helpful when working offline for a while.
+
+  
